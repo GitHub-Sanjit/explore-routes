@@ -19,8 +19,8 @@ const Header = () => {
         >
           Products
         </NavLink>
-        <NavLink to="/friends">Friends</NavLink>
-        <NavLink to="posts">Posts</NavLink>
+        <NavLink to="friends">Friends</NavLink>
+        <NavLink to="/posts">Posts</NavLink>
         {/* <NavLink to="/about">About</NavLink> */}
       </nav>
       <p>common Header</p>
